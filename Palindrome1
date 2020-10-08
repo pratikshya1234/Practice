@@ -23,7 +23,7 @@ public class integerpalindrome {
 		else {
 			System.out.println("not alindrome");
 		}
-		
+		//new one is created
 
 	}
 
